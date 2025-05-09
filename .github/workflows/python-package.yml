@@ -30,6 +30,9 @@ jobs:
         python -m pip install flake8 pytest
         python install pandas
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run install script
+      run: python /home/runner/work/ETL_Automation/ETL_Automation/install
+
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
