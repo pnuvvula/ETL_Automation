@@ -1,0 +1,2 @@
+This query verifies the count of a table^SELECT std_name, std_address, std_phone_no, std_class, school_address, school_principal_name, std_parent_name FROM public.stddata;:SELECT std_name, std_address, std_phone_no, std_class, school_address, school_principal_name, std_parent_name FROM public.stddata;#
+Second Query^SELECT 6;:SELECT 7;#

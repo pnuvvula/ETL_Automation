@@ -1,0 +1,4 @@
+Description of the Test Case,Execution Summary,Status
+Query to find Duplicate,,
+,Row {0: 'pn1'; 1: 2} in Source matches Row {0: 'pn1'; 1: 2} in Target,Pass
+,No match found for Row {0: 'pn3'; 1: 2} in Source,Fail

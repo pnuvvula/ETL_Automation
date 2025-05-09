@@ -1,0 +1,989 @@
+2025-05-07 06:52:26.324	Start single query execution
+2025-05-07 06:52:26.326	Start returnQueryValues function Single Query Execution
+2025-05-07 06:52:26.327	Start parseData function Single Query Execution
+2025-05-07 06:52:26.328	Start openAndRead function Single Query Execution
+2025-05-07 06:52:26.330	Start readDataFromFile function in ReadFile class
+2025-05-07 06:52:26.330	End readDataFromFile function in ReadFile class
+2025-05-07 06:52:26.330	End openAndRead function Single Query Execution
+2025-05-07 06:52:26.330	End parseData function Single Query Execution
+2025-05-07 06:52:26.330	End returnQueryValues function Single Query Execution
+2025-05-07 06:52:35.372	Start report header generation for Single Query Execution
+2025-05-07 06:52:35.377	End report header generation for Single Query Execution
+2025-05-07 06:52:35.378	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:52:35.506	Connection established successfully.
+2025-05-07 06:52:35.506	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:52:35.506	Start execute query to fetch all results
+2025-05-07 06:52:35.521	End execute query to fetch all results
+2025-05-07 06:52:35.521	Start report body generation for Single Query Execution
+2025-05-07 06:52:35.521	End report body generation for Single Query Execution
+2025-05-07 06:52:35.521	Start end result generation for Single Query Execution
+2025-05-07 06:52:35.521	End end result generation for Single Query Execution
+2025-05-07 06:52:35.521	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:52:35.615	Connection established successfully.
+2025-05-07 06:52:35.615	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:52:35.615	Start execute query to fetch all results
+2025-05-07 06:52:35.631	End execute query to fetch all results
+2025-05-07 06:52:35.631	Start report body generation for Single Query Execution
+2025-05-07 06:52:35.631	End report body generation for Single Query Execution
+2025-05-07 06:52:35.631	Start end result generation for Single Query Execution
+2025-05-07 06:52:35.631	End end result generation for Single Query Execution
+2025-05-07 06:52:35.631	End single query execution
+2025-05-07 06:53:55.090	Start single query execution
+2025-05-07 06:53:55.092	Start returnQueryValues function Single Query Execution
+2025-05-07 06:53:55.094	Start parseData function Single Query Execution
+2025-05-07 06:53:55.096	Start openAndRead function Single Query Execution
+2025-05-07 06:53:55.098	Start readDataFromFile function in ReadFile class
+2025-05-07 06:53:55.100	End readDataFromFile function in ReadFile class
+2025-05-07 06:53:55.102	End openAndRead function Single Query Execution
+2025-05-07 06:53:55.104	End parseData function Single Query Execution
+2025-05-07 06:53:55.106	End returnQueryValues function Single Query Execution
+2025-05-07 06:53:57.014	Start report header generation for Single Query Execution
+2025-05-07 06:53:57.018	End report header generation for Single Query Execution
+2025-05-07 06:53:57.020	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:53:57.272	Connection established successfully.
+2025-05-07 06:53:57.274	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:53:57.276	Start execute query to fetch all results
+2025-05-07 06:53:57.280	End execute query to fetch all results
+2025-05-07 06:53:57.281	Start report body generation for Single Query Execution
+2025-05-07 06:53:57.285	End report body generation for Single Query Execution
+2025-05-07 06:53:57.287	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:53:57.416	Connection established successfully.
+2025-05-07 06:53:57.418	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 06:53:57.419	Start execute query to fetch all results
+2025-05-07 06:53:57.422	End execute query to fetch all results
+2025-05-07 06:53:57.424	Start report body generation for Single Query Execution
+2025-05-07 06:53:57.427	End report body generation for Single Query Execution
+2025-05-07 06:53:57.429	Start end result generation for Single Query Execution
+2025-05-07 06:53:57.432	End end result generation for Single Query Execution
+2025-05-07 06:53:57.434	End single query execution
+2025-05-07 07:03:26.107	End User defined query execution
+2025-05-07 07:03:29.654	Start matching for null values
+2025-05-07 07:03:29.654	Start returnQueryValues function Checking for Null Values
+2025-05-07 07:03:29.654	Start parseData function Checking for Null Values
+2025-05-07 07:03:29.654	Start openAndRead function Checking for Null Values
+2025-05-07 07:03:29.670	Start readDataFromFile function in ReadFile class
+2025-05-07 07:03:29.670	End readDataFromFile function in ReadFile class
+2025-05-07 07:03:29.670	End openAndRead function Checking for Null Values
+2025-05-07 07:03:29.670	End parseData function Checking for Null Values
+2025-05-07 07:03:29.670	End returnQueryValues function Checking for Null Values
+2025-05-07 07:03:29.670	Start report header generation for Checking for Null Values
+2025-05-07 07:03:29.670	End report header generation for Checking for Null Values
+2025-05-07 07:03:29.670	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:29.832	Connection established successfully.
+2025-05-07 07:03:29.832	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:29.832	Start execute query to fetch all results
+2025-05-07 07:03:29.832	End execute query to fetch all results
+2025-05-07 07:03:29.842	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:29.955	Connection established successfully.
+2025-05-07 07:03:29.955	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:29.955	Start execute query to fetch all results
+2025-05-07 07:03:29.955	End execute query to fetch all results
+2025-05-07 07:03:29.955	Start report body generation for Checking for Null Values
+2025-05-07 07:03:29.955	End report body generation for Checking for Null Values
+2025-05-07 07:03:29.971	Start report body generation for Checking for Null Values
+2025-05-07 07:03:29.971	End report body generation for Checking for Null Values
+2025-05-07 07:03:29.971	Start report body generation for Checking for Null Values
+2025-05-07 07:03:29.971	End report body generation for Checking for Null Values
+2025-05-07 07:03:29.971	Start report body generation for Checking for Null Values
+2025-05-07 07:03:29.987	End report body generation for Checking for Null Values
+2025-05-07 07:03:29.987	Start report body generation for Checking for Null Values
+2025-05-07 07:03:29.987	End report body generation for Checking for Null Values
+2025-05-07 07:03:29.987	Start report body generation for Checking for Null Values
+2025-05-07 07:03:29.987	End report body generation for Checking for Null Values
+2025-05-07 07:03:29.987	End matching for null values
+2025-05-07 07:03:41.154	End User defined query execution
+2025-05-07 07:03:42.799	Start matching for null values
+2025-05-07 07:03:42.802	Start returnQueryValues function Checking for Null Values
+2025-05-07 07:03:42.805	Start parseData function Checking for Null Values
+2025-05-07 07:03:42.808	Start openAndRead function Checking for Null Values
+2025-05-07 07:03:42.811	Start readDataFromFile function in ReadFile class
+2025-05-07 07:03:42.816	End readDataFromFile function in ReadFile class
+2025-05-07 07:03:42.817	End openAndRead function Checking for Null Values
+2025-05-07 07:03:42.819	End parseData function Checking for Null Values
+2025-05-07 07:03:42.820	End returnQueryValues function Checking for Null Values
+2025-05-07 07:03:42.822	Start report header generation for Checking for Null Values
+2025-05-07 07:03:42.825	End report header generation for Checking for Null Values
+2025-05-07 07:03:42.827	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:42.940	Connection established successfully.
+2025-05-07 07:03:42.941	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:42.943	Start execute query to fetch all results
+2025-05-07 07:03:42.945	End execute query to fetch all results
+2025-05-07 07:03:42.947	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:43.046	Connection established successfully.
+2025-05-07 07:03:43.047	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:03:43.049	Start execute query to fetch all results
+2025-05-07 07:03:43.051	End execute query to fetch all results
+2025-05-07 07:03:43.053	Start report body generation for Checking for Null Values
+2025-05-07 07:03:43.056	End report body generation for Checking for Null Values
+2025-05-07 07:03:43.060	Start report body generation for Checking for Null Values
+2025-05-07 07:03:43.063	End report body generation for Checking for Null Values
+2025-05-07 07:03:43.065	Start report body generation for Checking for Null Values
+2025-05-07 07:03:43.068	End report body generation for Checking for Null Values
+2025-05-07 07:03:43.070	Start report body generation for Checking for Null Values
+2025-05-07 07:03:43.073	End report body generation for Checking for Null Values
+2025-05-07 07:03:43.075	Start report body generation for Checking for Null Values
+2025-05-07 07:03:43.078	End report body generation for Checking for Null Values
+2025-05-07 07:03:43.080	Start report body generation for Checking for Null Values
+2025-05-07 07:03:43.082	End report body generation for Checking for Null Values
+2025-05-07 07:03:43.084	End matching for null values
+2025-05-07 07:07:41.850	End User defined query execution
+2025-05-07 07:07:43.197	Start matching for null values
+2025-05-07 07:07:43.198	Start returnQueryValues function Checking for Null Values
+2025-05-07 07:07:43.199	Start parseData function Checking for Null Values
+2025-05-07 07:07:43.201	Start openAndRead function Checking for Null Values
+2025-05-07 07:07:43.202	Start readDataFromFile function in ReadFile class
+2025-05-07 07:07:43.204	End readDataFromFile function in ReadFile class
+2025-05-07 07:07:43.206	End openAndRead function Checking for Null Values
+2025-05-07 07:07:43.207	End parseData function Checking for Null Values
+2025-05-07 07:07:43.209	End returnQueryValues function Checking for Null Values
+2025-05-07 07:07:43.211	Start report header generation for Checking for Null Values
+2025-05-07 07:07:43.214	End report header generation for Checking for Null Values
+2025-05-07 07:07:43.215	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:07:43.332	Connection established successfully.
+2025-05-07 07:07:43.334	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:07:43.336	Start execute query to fetch all results
+2025-05-07 07:07:43.339	End execute query to fetch all results
+2025-05-07 07:07:43.341	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:07:43.440	Connection established successfully.
+2025-05-07 07:07:43.441	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:07:43.443	Start execute query to fetch all results
+2025-05-07 07:07:43.446	End execute query to fetch all results
+2025-05-07 07:07:43.447	Start report body generation for Checking for Null Values
+2025-05-07 07:07:43.451	End report body generation for Checking for Null Values
+2025-05-07 07:07:43.458	Start report body generation for Checking for Null Values
+2025-05-07 07:07:43.460	End report body generation for Checking for Null Values
+2025-05-07 07:07:43.463	End matching for null values
+2025-05-07 07:08:43.083	End User defined query execution
+2025-05-07 07:11:39.212	Start matching for duplicate values
+2025-05-07 07:11:39.215	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:11:39.216	Start parseData function Checking for Duplicate Values
+2025-05-07 07:11:39.218	Start openAndRead function Checking for Duplicate Values
+2025-05-07 07:11:39.219	Start readDataFromFile function in ReadFile class
+2025-05-07 07:11:39.221	End readDataFromFile function in ReadFile class
+2025-05-07 07:11:39.224	End openAndRead function Checking for Duplicate Values
+2025-05-07 07:11:39.226	End parseData function Checking for Duplicate Values
+2025-05-07 07:11:39.227	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:11:39.229	Start report header generation for Checking for Duplicate Values
+2025-05-07 07:11:39.233	End report header generation for Checking for Duplicate Values
+2025-05-07 07:11:39.236	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:11:39.380	Connection established successfully.
+2025-05-07 07:11:39.382	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:11:39.384	Start execute query to fetch all results
+2025-05-07 07:11:39.389	End execute query to fetch all results
+2025-05-07 07:11:39.391	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:11:39.504	Connection established successfully.
+2025-05-07 07:11:39.513	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:11:39.514	Start execute query to fetch all results
+2025-05-07 07:11:39.519	End execute query to fetch all results
+2025-05-07 07:11:39.521	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:11:39.526	End report body generation for Checking for Duplicate Values
+2025-05-07 07:11:39.533	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:11:39.537	End report body generation for Checking for Duplicate Values
+2025-05-07 07:11:39.540	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:11:39.543	End report body generation for Checking for Duplicate Values
+2025-05-07 07:11:39.546	End matching for duplicate values
+2025-05-07 07:14:58.344	End User defined query execution
+2025-05-07 07:14:59.972	Start matching for duplicate values
+2025-05-07 07:14:59.975	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:14:59.978	Start parseData function Checking for Duplicate Values
+2025-05-07 07:14:59.980	Start openAndRead function Checking for Duplicate Values
+2025-05-07 07:14:59.982	Start readDataFromFile function in ReadFile class
+2025-05-07 07:14:59.985	End readDataFromFile function in ReadFile class
+2025-05-07 07:14:59.987	End openAndRead function Checking for Duplicate Values
+2025-05-07 07:14:59.989	End parseData function Checking for Duplicate Values
+2025-05-07 07:14:59.991	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:14:59.994	Start report header generation for Checking for Duplicate Values
+2025-05-07 07:14:59.998	End report header generation for Checking for Duplicate Values
+2025-05-07 07:15:00.000	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:15:00.154	Connection established successfully.
+2025-05-07 07:15:00.156	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:15:00.158	Start execute query to fetch all results
+2025-05-07 07:15:00.162	End execute query to fetch all results
+2025-05-07 07:15:00.164	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:15:00.264	Connection established successfully.
+2025-05-07 07:15:00.266	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:15:00.268	Start execute query to fetch all results
+2025-05-07 07:15:00.272	End execute query to fetch all results
+2025-05-07 07:15:00.274	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:15:00.277	End report body generation for Checking for Duplicate Values
+2025-05-07 07:15:00.282	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:15:00.285	End report body generation for Checking for Duplicate Values
+2025-05-07 07:15:00.287	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:15:00.290	End report body generation for Checking for Duplicate Values
+2025-05-07 07:15:00.291	End matching for duplicate values
+2025-05-07 07:16:20.201	End User defined query execution
+2025-05-07 07:16:21.383	Start matching for duplicate values
+2025-05-07 07:16:21.399	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:16:21.399	Start parseData function Checking for Duplicate Values
+2025-05-07 07:16:21.399	Start openAndRead function Checking for Duplicate Values
+2025-05-07 07:16:21.399	Start readDataFromFile function in ReadFile class
+2025-05-07 07:16:21.416	End readDataFromFile function in ReadFile class
+2025-05-07 07:16:21.418	End openAndRead function Checking for Duplicate Values
+2025-05-07 07:16:21.419	End parseData function Checking for Duplicate Values
+2025-05-07 07:16:21.422	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:16:21.424	Start report header generation for Checking for Duplicate Values
+2025-05-07 07:16:21.428	End report header generation for Checking for Duplicate Values
+2025-05-07 07:16:21.431	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:16:21.537	Connection established successfully.
+2025-05-07 07:16:21.537	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:16:21.537	Start execute query to fetch all results
+2025-05-07 07:16:21.553	End execute query to fetch all results
+2025-05-07 07:16:21.553	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:16:21.653	Connection established successfully.
+2025-05-07 07:16:21.655	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:16:21.656	Start execute query to fetch all results
+2025-05-07 07:16:21.656	End execute query to fetch all results
+2025-05-07 07:16:21.663	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:16:21.663	End report body generation for Checking for Duplicate Values
+2025-05-07 07:16:21.663	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:16:21.663	End report body generation for Checking for Duplicate Values
+2025-05-07 07:16:21.663	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:16:21.678	End report body generation for Checking for Duplicate Values
+2025-05-07 07:16:21.678	End matching for duplicate values
+2025-05-07 07:17:31.359	End User defined query execution
+2025-05-07 07:17:39.426	Start matching for duplicate values
+2025-05-07 07:17:39.431	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:17:39.435	Start parseData function Checking for Duplicate Values
+2025-05-07 07:17:39.439	Start openAndRead function Checking for Duplicate Values
+2025-05-07 07:17:39.444	Start readDataFromFile function in ReadFile class
+2025-05-07 07:17:39.449	End readDataFromFile function in ReadFile class
+2025-05-07 07:17:39.451	End openAndRead function Checking for Duplicate Values
+2025-05-07 07:17:39.453	End parseData function Checking for Duplicate Values
+2025-05-07 07:17:39.455	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:17:51.793	Start report header generation for Checking for Duplicate Values
+2025-05-07 07:17:51.798	End report header generation for Checking for Duplicate Values
+2025-05-07 07:17:51.801	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:17:51.935	Connection established successfully.
+2025-05-07 07:17:51.937	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:17:51.940	Start execute query to fetch all results
+2025-05-07 07:17:51.944	End execute query to fetch all results
+2025-05-07 07:17:51.946	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:17:52.051	Connection established successfully.
+2025-05-07 07:17:52.053	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:17:52.057	Start execute query to fetch all results
+2025-05-07 07:17:52.061	End execute query to fetch all results
+2025-05-07 07:17:52.063	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:17:52.066	End report body generation for Checking for Duplicate Values
+2025-05-07 07:17:52.075	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:17:52.075	End report body generation for Checking for Duplicate Values
+2025-05-07 07:19:13.489	End User defined query execution
+2025-05-07 07:19:30.207	Start matching for duplicate values
+2025-05-07 07:19:30.208	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:19:30.208	Start parseData function Checking for Duplicate Values
+2025-05-07 07:19:30.208	Start openAndRead function Checking for Duplicate Values
+2025-05-07 07:19:30.216	Start readDataFromFile function in ReadFile class
+2025-05-07 07:19:30.216	End readDataFromFile function in ReadFile class
+2025-05-07 07:19:30.216	End openAndRead function Checking for Duplicate Values
+2025-05-07 07:19:30.216	End parseData function Checking for Duplicate Values
+2025-05-07 07:19:30.224	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:19:30.228	Start report header generation for Checking for Duplicate Values
+2025-05-07 07:19:30.232	End report header generation for Checking for Duplicate Values
+2025-05-07 07:19:30.234	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:19:30.340	Connection established successfully.
+2025-05-07 07:19:30.340	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:19:30.340	Start execute query to fetch all results
+2025-05-07 07:19:30.356	End execute query to fetch all results
+2025-05-07 07:19:30.356	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:19:30.451	Connection established successfully.
+2025-05-07 07:19:30.466	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:19:30.466	Start execute query to fetch all results
+2025-05-07 07:19:30.466	End execute query to fetch all results
+2025-05-07 07:19:30.466	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:19:30.466	End report body generation for Checking for Duplicate Values
+2025-05-07 07:19:30.482	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:19:30.482	End report body generation for Checking for Duplicate Values
+2025-05-07 07:20:46.135	End User defined query execution
+2025-05-07 07:20:53.926	Start matching for duplicate values
+2025-05-07 07:20:53.941	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:20:53.941	Start parseData function Checking for Duplicate Values
+2025-05-07 07:20:53.941	Start openAndRead function Checking for Duplicate Values
+2025-05-07 07:20:53.958	Start readDataFromFile function in ReadFile class
+2025-05-07 07:20:53.963	End readDataFromFile function in ReadFile class
+2025-05-07 07:20:53.967	End openAndRead function Checking for Duplicate Values
+2025-05-07 07:20:53.970	End parseData function Checking for Duplicate Values
+2025-05-07 07:20:53.972	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 07:20:53.975	Start report header generation for Checking for Duplicate Values
+2025-05-07 07:20:53.978	End report header generation for Checking for Duplicate Values
+2025-05-07 07:20:53.981	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:20:54.093	Connection established successfully.
+2025-05-07 07:20:54.093	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:20:54.100	Start execute query to fetch all results
+2025-05-07 07:20:54.100	End execute query to fetch all results
+2025-05-07 07:20:54.100	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:20:54.204	Connection established successfully.
+2025-05-07 07:20:54.204	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:20:54.204	Start execute query to fetch all results
+2025-05-07 07:20:54.219	End execute query to fetch all results
+2025-05-07 07:20:54.219	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:20:54.219	End report body generation for Checking for Duplicate Values
+2025-05-07 07:20:54.235	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:20:54.235	End report body generation for Checking for Duplicate Values
+2025-05-07 07:20:54.235	Start report body generation for Checking for Duplicate Values
+2025-05-07 07:20:54.235	End report body generation for Checking for Duplicate Values
+2025-05-07 07:20:54.235	End matching for duplicate values
+2025-05-07 07:23:52.942	End User defined query execution
+2025-05-07 07:23:54.814	Start matching of Columns and Data Types
+2025-05-07 07:23:54.814	Start returnQueryValues function Checking for Columns and Data Types
+2025-05-07 07:23:54.834	Start parseData function Checking for Columns and Data Types
+2025-05-07 07:23:54.839	Start openAndRead function Checking for Columns and Data Types
+2025-05-07 07:23:54.845	Start readDataFromFile function in ReadFile class
+2025-05-07 07:23:54.850	End readDataFromFile function in ReadFile class
+2025-05-07 07:23:54.853	End openAndRead function Checking for Columns and Data Types
+2025-05-07 07:23:54.855	End parseData function Checking for Columns and Data Types
+2025-05-07 07:23:54.857	End returnQueryValues function Checking for Columns and Data Types
+2025-05-07 07:23:54.859	Start report header generation for Checking for Columns and Data Types
+2025-05-07 07:23:54.859	End report header generation for Checking for Columns and Data Types
+2025-05-07 07:23:54.859	Start report body generation for Checking for Columns and Data Types
+2025-05-07 07:23:54.871	End report body generation for Checking for Columns and Data Types
+2025-05-07 07:23:54.872	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:23:54.983	Connection established successfully.
+2025-05-07 07:23:54.983	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:23:54.983	Start execute query to fetch all results
+2025-05-07 07:23:55.003	End execute query to fetch all results
+2025-05-07 07:23:55.003	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:23:55.103	Connection established successfully.
+2025-05-07 07:23:55.110	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:23:55.110	Start execute query to fetch all results
+2025-05-07 07:23:55.140	End execute query to fetch all results
+2025-05-07 07:23:55.156	Start report body generation for Checking for Columns and Data Types
+2025-05-07 07:23:55.160	End report body generation for Checking for Columns and Data Types
+2025-05-07 07:23:55.163	End matching of Columns and Data Types
+2025-05-07 07:32:42.352	End User defined query execution
+2025-05-07 07:32:45.360	Start User defined query execution
+2025-05-07 07:32:45.362	Start returnQueryValues function User defined query execution
+2025-05-07 07:32:45.365	Start parseData function User defined query execution
+2025-05-07 07:32:45.367	Start openAndRead function User defined query execution
+2025-05-07 07:32:45.370	Start readDataFromFile function in ReadFile class
+2025-05-07 07:32:45.373	End readDataFromFile function in ReadFile class
+2025-05-07 07:32:45.375	End openAndRead function User defined query execution
+2025-05-07 07:32:45.378	End parseData function User defined query execution
+2025-05-07 07:32:45.380	End returnQueryValues function User defined query execution
+2025-05-07 07:32:48.825	Start report header generation for User defined query execution
+2025-05-07 07:32:48.830	End report header generation for User defined query execution
+2025-05-07 07:32:48.833	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:48.991	Connection established successfully.
+2025-05-07 07:32:48.994	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:48.998	Start execute query to fetch all results
+2025-05-07 07:32:49.002	End execute query to fetch all results
+2025-05-07 07:32:49.004	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:49.138	Connection established successfully.
+2025-05-07 07:32:49.140	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:49.143	Start execute query to fetch all results
+2025-05-07 07:32:49.146	End execute query to fetch all results
+2025-05-07 07:32:49.149	Start report body generation for User defined query execution
+2025-05-07 07:32:49.154	End report body generation for User defined query execution
+2025-05-07 07:32:49.164	Start report body generation for User defined query execution
+2025-05-07 07:32:49.170	End report body generation for User defined query execution
+2025-05-07 07:32:49.176	Start report body generation for User defined query execution
+2025-05-07 07:32:49.183	End report body generation for User defined query execution
+2025-05-07 07:32:49.188	Start report body generation for User defined query execution
+2025-05-07 07:32:49.195	End report body generation for User defined query execution
+2025-05-07 07:32:49.200	Start report body generation for User defined query execution
+2025-05-07 07:32:49.206	End report body generation for User defined query execution
+2025-05-07 07:32:49.210	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:49.395	Connection established successfully.
+2025-05-07 07:32:49.400	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:49.404	Start execute query to fetch all results
+2025-05-07 07:32:49.410	End execute query to fetch all results
+2025-05-07 07:32:49.415	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:49.897	Connection established successfully.
+2025-05-07 07:32:49.897	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:32:49.897	Start execute query to fetch all results
+2025-05-07 07:32:49.912	End execute query to fetch all results
+2025-05-07 07:32:49.912	Start report body generation for User defined query execution
+2025-05-07 07:32:49.923	End report body generation for User defined query execution
+2025-05-07 07:32:49.932	Start report body generation for User defined query execution
+2025-05-07 07:32:49.932	End report body generation for User defined query execution
+2025-05-07 07:32:49.945	Start end result generation for User defined query execution
+2025-05-07 07:32:49.945	End end result generation for User defined query execution
+2025-05-07 07:34:50.157	End User defined query execution
+2025-05-07 07:34:56.232	Start User defined query execution
+2025-05-07 07:34:56.232	Start returnQueryValues function User defined query execution
+2025-05-07 07:34:56.232	Start parseData function User defined query execution
+2025-05-07 07:34:56.243	Start openAndRead function User defined query execution
+2025-05-07 07:34:56.248	Start readDataFromFile function in ReadFile class
+2025-05-07 07:34:56.252	End readDataFromFile function in ReadFile class
+2025-05-07 07:34:56.255	End openAndRead function User defined query execution
+2025-05-07 07:34:56.258	End parseData function User defined query execution
+2025-05-07 07:34:56.266	End returnQueryValues function User defined query execution
+2025-05-07 07:34:58.660	Start report header generation for User defined query execution
+2025-05-07 07:34:58.660	End report header generation for User defined query execution
+2025-05-07 07:34:58.660	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:58.806	Connection established successfully.
+2025-05-07 07:34:58.806	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:58.815	Start execute query to fetch all results
+2025-05-07 07:34:58.815	End execute query to fetch all results
+2025-05-07 07:34:58.815	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:58.939	Connection established successfully.
+2025-05-07 07:34:58.939	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:58.939	Start execute query to fetch all results
+2025-05-07 07:34:58.939	End execute query to fetch all results
+2025-05-07 07:34:58.939	Start report body generation for User defined query execution
+2025-05-07 07:34:58.939	End report body generation for User defined query execution
+2025-05-07 07:34:58.955	Start report body generation for User defined query execution
+2025-05-07 07:34:58.955	End report body generation for User defined query execution
+2025-05-07 07:34:58.955	Start report body generation for User defined query execution
+2025-05-07 07:34:58.981	End report body generation for User defined query execution
+2025-05-07 07:34:58.981	Start report body generation for User defined query execution
+2025-05-07 07:34:58.987	End report body generation for User defined query execution
+2025-05-07 07:34:58.987	Start report body generation for User defined query execution
+2025-05-07 07:34:58.987	End report body generation for User defined query execution
+2025-05-07 07:34:58.987	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:59.115	Connection established successfully.
+2025-05-07 07:34:59.115	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:59.115	Start execute query to fetch all results
+2025-05-07 07:34:59.128	End execute query to fetch all results
+2025-05-07 07:34:59.129	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:59.240	Connection established successfully.
+2025-05-07 07:34:59.240	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:34:59.240	Start execute query to fetch all results
+2025-05-07 07:34:59.240	End execute query to fetch all results
+2025-05-07 07:34:59.240	Start report body generation for User defined query execution
+2025-05-07 07:34:59.240	End report body generation for User defined query execution
+2025-05-07 07:34:59.240	Start report body generation for User defined query execution
+2025-05-07 07:34:59.256	End report body generation for User defined query execution
+2025-05-07 07:35:05.364	Start end result generation for User defined query execution
+2025-05-07 07:35:05.364	End end result generation for User defined query execution
+2025-05-07 07:35:31.919	End User defined query execution
+2025-05-07 07:35:39.211	Start User defined query execution
+2025-05-07 07:35:39.213	Start returnQueryValues function User defined query execution
+2025-05-07 07:35:39.214	Start parseData function User defined query execution
+2025-05-07 07:35:39.215	Start openAndRead function User defined query execution
+2025-05-07 07:35:39.216	Start readDataFromFile function in ReadFile class
+2025-05-07 07:35:39.218	End readDataFromFile function in ReadFile class
+2025-05-07 07:35:39.219	End openAndRead function User defined query execution
+2025-05-07 07:35:39.220	End parseData function User defined query execution
+2025-05-07 07:35:39.221	End returnQueryValues function User defined query execution
+2025-05-07 07:35:43.155	Start report header generation for User defined query execution
+2025-05-07 07:35:43.160	End report header generation for User defined query execution
+2025-05-07 07:35:43.898	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:35:44.030	Connection established successfully.
+2025-05-07 07:35:44.031	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:35:44.032	Start execute query to fetch all results
+2025-05-07 07:35:44.034	End execute query to fetch all results
+2025-05-07 07:35:44.068	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:35:44.195	Connection established successfully.
+2025-05-07 07:35:44.196	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:35:44.198	Start execute query to fetch all results
+2025-05-07 07:35:44.200	End execute query to fetch all results
+2025-05-07 07:35:44.218	Start report body generation for User defined query execution
+2025-05-07 07:35:44.222	End report body generation for User defined query execution
+2025-05-07 07:35:47.107	Start report body generation for User defined query execution
+2025-05-07 07:35:47.113	End report body generation for User defined query execution
+2025-05-07 07:36:35.598	Start report body generation for User defined query execution
+2025-05-07 07:36:35.610	End report body generation for User defined query execution
+2025-05-07 07:36:45.896	Start report body generation for User defined query execution
+2025-05-07 07:36:45.899	End report body generation for User defined query execution
+2025-05-07 07:36:53.736	Start report body generation for User defined query execution
+2025-05-07 07:36:53.739	End report body generation for User defined query execution
+2025-05-07 07:36:59.905	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:37:00.043	Connection established successfully.
+2025-05-07 07:37:00.044	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:37:00.045	Start execute query to fetch all results
+2025-05-07 07:37:00.046	End execute query to fetch all results
+2025-05-07 07:37:00.539	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:37:00.662	Connection established successfully.
+2025-05-07 07:37:00.663	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:37:00.665	Start execute query to fetch all results
+2025-05-07 07:37:00.666	End execute query to fetch all results
+2025-05-07 07:37:08.044	Start report body generation for User defined query execution
+2025-05-07 07:37:08.054	End report body generation for User defined query execution
+2025-05-07 07:38:53.243	End User defined query execution
+2025-05-07 07:38:56.554	Start User defined query execution
+2025-05-07 07:38:56.555	Start returnQueryValues function User defined query execution
+2025-05-07 07:38:56.556	Start parseData function User defined query execution
+2025-05-07 07:38:56.557	Start openAndRead function User defined query execution
+2025-05-07 07:38:56.559	Start readDataFromFile function in ReadFile class
+2025-05-07 07:38:56.560	End readDataFromFile function in ReadFile class
+2025-05-07 07:38:56.561	End openAndRead function User defined query execution
+2025-05-07 07:38:56.562	End parseData function User defined query execution
+2025-05-07 07:38:56.563	End returnQueryValues function User defined query execution
+2025-05-07 07:38:58.377	Start report header generation for User defined query execution
+2025-05-07 07:38:58.377	End report header generation for User defined query execution
+2025-05-07 07:38:58.377	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.599	Connection established successfully.
+2025-05-07 07:38:58.599	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.599	Start execute query to fetch all results
+2025-05-07 07:38:58.599	End execute query to fetch all results
+2025-05-07 07:38:58.599	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.703	Connection established successfully.
+2025-05-07 07:38:58.703	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.703	Start execute query to fetch all results
+2025-05-07 07:38:58.703	End execute query to fetch all results
+2025-05-07 07:38:58.703	Start report body generation for User defined query execution
+2025-05-07 07:38:58.715	End report body generation for User defined query execution
+2025-05-07 07:38:58.719	Start report body generation for User defined query execution
+2025-05-07 07:38:58.719	End report body generation for User defined query execution
+2025-05-07 07:38:58.719	Start report body generation for User defined query execution
+2025-05-07 07:38:58.734	End report body generation for User defined query execution
+2025-05-07 07:38:58.734	Start report body generation for User defined query execution
+2025-05-07 07:38:58.734	End report body generation for User defined query execution
+2025-05-07 07:38:58.734	Start report body generation for User defined query execution
+2025-05-07 07:38:58.734	End report body generation for User defined query execution
+2025-05-07 07:38:58.742	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.830	Connection established successfully.
+2025-05-07 07:38:58.830	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.830	Start execute query to fetch all results
+2025-05-07 07:38:58.830	End execute query to fetch all results
+2025-05-07 07:38:58.830	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.972	Connection established successfully.
+2025-05-07 07:38:58.972	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:38:58.972	Start execute query to fetch all results
+2025-05-07 07:38:58.972	End execute query to fetch all results
+2025-05-07 07:38:58.972	Start report body generation for User defined query execution
+2025-05-07 07:38:58.972	End report body generation for User defined query execution
+2025-05-07 07:38:58.972	Start report body generation for User defined query execution
+2025-05-07 07:38:58.987	End report body generation for User defined query execution
+2025-05-07 07:38:58.987	Start end result generation for User defined query execution
+2025-05-07 07:38:58.990	End end result generation for User defined query execution
+2025-05-07 07:40:20.805	End User defined query execution
+2025-05-07 07:40:22.642	Start User defined query execution
+2025-05-07 07:40:22.642	Start returnQueryValues function User defined query execution
+2025-05-07 07:40:22.642	Start parseData function User defined query execution
+2025-05-07 07:40:22.642	Start openAndRead function User defined query execution
+2025-05-07 07:40:22.642	Start readDataFromFile function in ReadFile class
+2025-05-07 07:40:22.642	End readDataFromFile function in ReadFile class
+2025-05-07 07:40:22.642	End openAndRead function User defined query execution
+2025-05-07 07:40:22.657	End parseData function User defined query execution
+2025-05-07 07:40:22.659	End returnQueryValues function User defined query execution
+2025-05-07 07:40:24.448	Start report header generation for User defined query execution
+2025-05-07 07:40:24.464	End report header generation for User defined query execution
+2025-05-07 07:40:24.464	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.589	Connection established successfully.
+2025-05-07 07:40:24.589	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.589	Start execute query to fetch all results
+2025-05-07 07:40:24.589	End execute query to fetch all results
+2025-05-07 07:40:24.589	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.684	Connection established successfully.
+2025-05-07 07:40:24.684	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.684	Start execute query to fetch all results
+2025-05-07 07:40:24.684	End execute query to fetch all results
+2025-05-07 07:40:24.684	Start report body generation for User defined query execution
+2025-05-07 07:40:24.684	End report body generation for User defined query execution
+2025-05-07 07:40:24.699	Start report body generation for User defined query execution
+2025-05-07 07:40:24.699	End report body generation for User defined query execution
+2025-05-07 07:40:24.699	Start report body generation for User defined query execution
+2025-05-07 07:40:24.715	End report body generation for User defined query execution
+2025-05-07 07:40:24.715	Start report body generation for User defined query execution
+2025-05-07 07:40:24.725	End report body generation for User defined query execution
+2025-05-07 07:40:24.725	Start report body generation for User defined query execution
+2025-05-07 07:40:24.732	End report body generation for User defined query execution
+2025-05-07 07:40:24.734	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.821	Connection established successfully.
+2025-05-07 07:40:24.821	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.821	Start execute query to fetch all results
+2025-05-07 07:40:24.831	End execute query to fetch all results
+2025-05-07 07:40:24.831	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.925	Connection established successfully.
+2025-05-07 07:40:24.925	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:40:24.925	Start execute query to fetch all results
+2025-05-07 07:40:24.925	End execute query to fetch all results
+2025-05-07 07:40:24.931	Start report body generation for User defined query execution
+2025-05-07 07:40:24.931	End report body generation for User defined query execution
+2025-05-07 07:40:24.931	Start report body generation for User defined query execution
+2025-05-07 07:40:24.931	End report body generation for User defined query execution
+2025-05-07 07:40:24.931	Start end result generation for User defined query execution
+2025-05-07 07:40:24.931	End end result generation for User defined query execution
+2025-05-07 07:41:42.065	End User defined query execution
+2025-05-07 07:41:44.186	Start User defined query execution
+2025-05-07 07:41:44.188	Start returnQueryValues function User defined query execution
+2025-05-07 07:41:44.188	Start parseData function User defined query execution
+2025-05-07 07:41:44.190	Start openAndRead function User defined query execution
+2025-05-07 07:41:44.190	Start readDataFromFile function in ReadFile class
+2025-05-07 07:41:44.191	End readDataFromFile function in ReadFile class
+2025-05-07 07:41:44.192	End openAndRead function User defined query execution
+2025-05-07 07:41:44.192	End parseData function User defined query execution
+2025-05-07 07:41:44.194	End returnQueryValues function User defined query execution
+2025-05-07 07:41:46.125	Start report header generation for User defined query execution
+2025-05-07 07:41:46.129	End report header generation for User defined query execution
+2025-05-07 07:41:46.131	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.255	Connection established successfully.
+2025-05-07 07:41:46.256	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.257	Start execute query to fetch all results
+2025-05-07 07:41:46.259	End execute query to fetch all results
+2025-05-07 07:41:46.260	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.357	Connection established successfully.
+2025-05-07 07:41:46.358	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.359	Start execute query to fetch all results
+2025-05-07 07:41:46.361	End execute query to fetch all results
+2025-05-07 07:41:46.362	Start report body generation for User defined query execution
+2025-05-07 07:41:46.365	End report body generation for User defined query execution
+2025-05-07 07:41:46.370	Start report body generation for User defined query execution
+2025-05-07 07:41:46.372	End report body generation for User defined query execution
+2025-05-07 07:41:46.374	Start report body generation for User defined query execution
+2025-05-07 07:41:46.386	End report body generation for User defined query execution
+2025-05-07 07:41:46.392	Start report body generation for User defined query execution
+2025-05-07 07:41:46.398	End report body generation for User defined query execution
+2025-05-07 07:41:46.401	Start report body generation for User defined query execution
+2025-05-07 07:41:46.404	End report body generation for User defined query execution
+2025-05-07 07:41:46.406	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.505	Connection established successfully.
+2025-05-07 07:41:46.506	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.506	Start execute query to fetch all results
+2025-05-07 07:41:46.508	End execute query to fetch all results
+2025-05-07 07:41:46.509	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.613	Connection established successfully.
+2025-05-07 07:41:46.614	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:41:46.614	Start execute query to fetch all results
+2025-05-07 07:41:46.616	End execute query to fetch all results
+2025-05-07 07:41:46.617	Start report body generation for User defined query execution
+2025-05-07 07:41:46.620	End report body generation for User defined query execution
+2025-05-07 07:41:46.621	Start report body generation for User defined query execution
+2025-05-07 07:41:46.623	End report body generation for User defined query execution
+2025-05-07 07:41:46.624	Start end result generation for User defined query execution
+2025-05-07 07:41:46.626	End end result generation for User defined query execution
+2025-05-07 07:42:03.781	End User defined query execution
+2025-05-07 07:42:05.169	Start User defined query execution
+2025-05-07 07:42:05.169	Start returnQueryValues function User defined query execution
+2025-05-07 07:42:05.169	Start parseData function User defined query execution
+2025-05-07 07:42:05.169	Start openAndRead function User defined query execution
+2025-05-07 07:42:05.169	Start readDataFromFile function in ReadFile class
+2025-05-07 07:42:05.169	End readDataFromFile function in ReadFile class
+2025-05-07 07:42:05.169	End openAndRead function User defined query execution
+2025-05-07 07:42:05.169	End parseData function User defined query execution
+2025-05-07 07:42:05.186	End returnQueryValues function User defined query execution
+2025-05-07 07:42:10.253	Start report header generation for User defined query execution
+2025-05-07 07:42:10.257	End report header generation for User defined query execution
+2025-05-07 07:42:10.258	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:10.374	Connection established successfully.
+2025-05-07 07:42:10.375	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:10.376	Start execute query to fetch all results
+2025-05-07 07:42:10.377	End execute query to fetch all results
+2025-05-07 07:42:10.378	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:10.474	Connection established successfully.
+2025-05-07 07:42:10.476	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:10.477	Start execute query to fetch all results
+2025-05-07 07:42:10.478	End execute query to fetch all results
+2025-05-07 07:42:10.479	Start report body generation for User defined query execution
+2025-05-07 07:42:10.482	End report body generation for User defined query execution
+2025-05-07 07:42:10.486	Start report body generation for User defined query execution
+2025-05-07 07:42:10.488	End report body generation for User defined query execution
+2025-05-07 07:42:13.030	End User defined query execution
+2025-05-07 07:42:14.630	Start User defined query execution
+2025-05-07 07:42:14.632	Start returnQueryValues function User defined query execution
+2025-05-07 07:42:14.633	Start parseData function User defined query execution
+2025-05-07 07:42:14.634	Start openAndRead function User defined query execution
+2025-05-07 07:42:14.635	Start readDataFromFile function in ReadFile class
+2025-05-07 07:42:14.637	End readDataFromFile function in ReadFile class
+2025-05-07 07:42:14.638	End openAndRead function User defined query execution
+2025-05-07 07:42:14.639	End parseData function User defined query execution
+2025-05-07 07:42:14.640	End returnQueryValues function User defined query execution
+2025-05-07 07:42:19.439	Start report header generation for User defined query execution
+2025-05-07 07:42:19.444	End report header generation for User defined query execution
+2025-05-07 07:42:19.445	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:19.660	Connection established successfully.
+2025-05-07 07:42:19.661	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:19.662	Start execute query to fetch all results
+2025-05-07 07:42:19.664	End execute query to fetch all results
+2025-05-07 07:42:19.664	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:19.758	Connection established successfully.
+2025-05-07 07:42:19.759	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:42:19.760	Start execute query to fetch all results
+2025-05-07 07:42:19.762	End execute query to fetch all results
+2025-05-07 07:42:19.763	Start report body generation for User defined query execution
+2025-05-07 07:42:19.765	End report body generation for User defined query execution
+2025-05-07 07:42:19.770	Start report body generation for User defined query execution
+2025-05-07 07:42:19.773	End report body generation for User defined query execution
+2025-05-07 07:42:19.774	Start report body generation for User defined query execution
+2025-05-07 07:42:19.787	End report body generation for User defined query execution
+2025-05-07 07:42:19.788	Start report body generation for User defined query execution
+2025-05-07 07:42:19.791	End report body generation for User defined query execution
+2025-05-07 07:42:19.792	Start report body generation for User defined query execution
+2025-05-07 07:42:19.794	End report body generation for User defined query execution
+2025-05-07 07:43:28.448	End User defined query execution
+2025-05-07 07:43:30.178	Start User defined query execution
+2025-05-07 07:43:30.178	Start returnQueryValues function User defined query execution
+2025-05-07 07:43:30.178	Start parseData function User defined query execution
+2025-05-07 07:43:30.193	Start openAndRead function User defined query execution
+2025-05-07 07:43:30.196	Start readDataFromFile function in ReadFile class
+2025-05-07 07:43:30.199	End readDataFromFile function in ReadFile class
+2025-05-07 07:43:30.201	End openAndRead function User defined query execution
+2025-05-07 07:43:30.203	End parseData function User defined query execution
+2025-05-07 07:43:30.205	End returnQueryValues function User defined query execution
+2025-05-07 07:43:33.402	Start report header generation for User defined query execution
+2025-05-07 07:43:33.402	End report header generation for User defined query execution
+2025-05-07 07:43:33.402	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:43:33.544	Connection established successfully.
+2025-05-07 07:43:33.544	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:43:33.544	Start execute query to fetch all results
+2025-05-07 07:43:33.544	End execute query to fetch all results
+2025-05-07 07:43:33.544	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:43:33.654	Connection established successfully.
+2025-05-07 07:43:33.654	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 07:43:33.654	Start execute query to fetch all results
+2025-05-07 07:43:33.654	End execute query to fetch all results
+2025-05-07 07:43:33.654	Start report body generation for User defined query execution
+2025-05-07 07:43:33.670	End report body generation for User defined query execution
+2025-05-07 07:43:33.670	Start report body generation for User defined query execution
+2025-05-07 07:43:33.670	End report body generation for User defined query execution
+2025-05-07 07:43:33.670	Start report body generation for User defined query execution
+2025-05-07 07:43:33.670	End report body generation for User defined query execution
+2025-05-07 07:43:33.685	Start report body generation for User defined query execution
+2025-05-07 07:43:33.685	End report body generation for User defined query execution
+2025-05-07 07:43:33.685	Start report body generation for User defined query execution
+2025-05-07 07:43:33.685	End report body generation for User defined query execution
+2025-05-07 09:31:19.684	End User defined query execution
+2025-05-07 09:31:30.517	Start User defined query execution
+2025-05-07 09:31:30.519	Start returnQueryValues function User defined query execution
+2025-05-07 09:31:30.522	Start parseData function User defined query execution
+2025-05-07 09:31:30.523	Start openAndRead function User defined query execution
+2025-05-07 09:31:30.526	Start readDataFromFile function in ReadFile class
+2025-05-07 09:31:30.529	End readDataFromFile function in ReadFile class
+2025-05-07 09:31:30.532	End openAndRead function User defined query execution
+2025-05-07 09:31:30.533	End parseData function User defined query execution
+2025-05-07 09:31:30.536	End returnQueryValues function User defined query execution
+2025-05-07 09:31:32.354	Start report header generation for User defined query execution
+2025-05-07 09:31:32.360	End report header generation for User defined query execution
+2025-05-07 09:31:32.362	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:32.629	Connection established successfully.
+2025-05-07 09:31:32.631	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:32.632	Start execute query to fetch all results
+2025-05-07 09:31:32.636	End execute query to fetch all results
+2025-05-07 09:31:32.638	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:32.802	Connection established successfully.
+2025-05-07 09:31:32.804	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:32.806	Start execute query to fetch all results
+2025-05-07 09:31:32.810	End execute query to fetch all results
+2025-05-07 09:31:32.812	Start report body generation for User defined query execution
+2025-05-07 09:31:32.817	End report body generation for User defined query execution
+2025-05-07 09:31:32.826	Start report body generation for User defined query execution
+2025-05-07 09:31:32.830	End report body generation for User defined query execution
+2025-05-07 09:31:32.834	Start report body generation for User defined query execution
+2025-05-07 09:31:32.874	End report body generation for User defined query execution
+2025-05-07 09:31:32.879	Start report body generation for User defined query execution
+2025-05-07 09:31:32.883	End report body generation for User defined query execution
+2025-05-07 09:31:32.886	Start report body generation for User defined query execution
+2025-05-07 09:31:32.892	End report body generation for User defined query execution
+2025-05-07 09:31:32.893	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:33.114	Connection established successfully.
+2025-05-07 09:31:33.116	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:33.118	Start execute query to fetch all results
+2025-05-07 09:31:33.120	End execute query to fetch all results
+2025-05-07 09:31:33.123	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:33.307	Connection established successfully.
+2025-05-07 09:31:33.308	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:31:33.310	Start execute query to fetch all results
+2025-05-07 09:31:33.313	End execute query to fetch all results
+2025-05-07 09:31:33.316	Start report body generation for User defined query execution
+2025-05-07 09:31:33.319	End report body generation for User defined query execution
+2025-05-07 09:31:33.323	Start report body generation for User defined query execution
+2025-05-07 09:31:33.327	End report body generation for User defined query execution
+2025-05-07 09:31:33.329	Start end result generation for User defined query execution
+2025-05-07 09:31:33.333	End end result generation for User defined query execution
+2025-05-07 09:47:52.429	End User defined query execution
+2025-05-07 09:48:03.477	Start matching of Columns and Data Types
+2025-05-07 09:48:03.479	Start returnQueryValues function Checking for Columns and Data Types
+2025-05-07 09:48:03.481	Start parseData function Checking for Columns and Data Types
+2025-05-07 09:48:03.484	Start openAndRead function Checking for Columns and Data Types
+2025-05-07 09:48:03.486	Start readDataFromFile function in ReadFile class
+2025-05-07 09:48:03.488	End readDataFromFile function in ReadFile class
+2025-05-07 09:48:03.491	End openAndRead function Checking for Columns and Data Types
+2025-05-07 09:48:03.493	End parseData function Checking for Columns and Data Types
+2025-05-07 09:48:03.495	End returnQueryValues function Checking for Columns and Data Types
+2025-05-07 09:48:03.498	Start report header generation for Checking for Columns and Data Types
+2025-05-07 09:48:03.503	End report header generation for Checking for Columns and Data Types
+2025-05-07 09:48:03.505	Start report body generation for Checking for Columns and Data Types
+2025-05-07 09:48:03.511	End report body generation for Checking for Columns and Data Types
+2025-05-07 09:48:03.514	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:48:03.963	Connection established successfully.
+2025-05-07 09:48:03.964	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:48:03.967	Start execute query to fetch all results
+2025-05-07 09:48:03.997	End execute query to fetch all results
+2025-05-07 09:48:03.999	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:48:04.206	Connection established successfully.
+2025-05-07 09:48:04.208	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:48:04.211	Start execute query to fetch all results
+2025-05-07 09:48:04.234	End execute query to fetch all results
+2025-05-07 09:48:04.241	Start report body generation for Checking for Columns and Data Types
+2025-05-07 09:48:04.246	End report body generation for Checking for Columns and Data Types
+2025-05-07 09:48:04.247	End matching of Columns and Data Types
+2025-05-07 09:49:37.454	End User defined query execution
+2025-05-07 09:49:39.239	Start matching of Columns and Data Types
+2025-05-07 09:49:39.241	Start returnQueryValues function Checking for Columns and Data Types
+2025-05-07 09:49:39.243	Start parseData function Checking for Columns and Data Types
+2025-05-07 09:49:39.245	Start openAndRead function Checking for Columns and Data Types
+2025-05-07 09:49:39.248	Start readDataFromFile function in ReadFile class
+2025-05-07 09:49:39.251	End readDataFromFile function in ReadFile class
+2025-05-07 09:49:39.254	End openAndRead function Checking for Columns and Data Types
+2025-05-07 09:49:39.256	End parseData function Checking for Columns and Data Types
+2025-05-07 09:49:39.258	End returnQueryValues function Checking for Columns and Data Types
+2025-05-07 09:49:39.261	Start report header generation for Checking for Columns and Data Types
+2025-05-07 09:49:39.270	End report header generation for Checking for Columns and Data Types
+2025-05-07 09:49:39.274	Start report body generation for Checking for Columns and Data Types
+2025-05-07 09:49:39.279	End report body generation for Checking for Columns and Data Types
+2025-05-07 09:49:39.281	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:49:39.537	Connection established successfully.
+2025-05-07 09:49:39.539	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:49:39.541	Start execute query to fetch all results
+2025-05-07 09:49:39.570	End execute query to fetch all results
+2025-05-07 09:49:39.572	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:49:39.768	Connection established successfully.
+2025-05-07 09:49:39.769	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 09:49:39.770	Start execute query to fetch all results
+2025-05-07 09:49:39.791	End execute query to fetch all results
+2025-05-07 09:49:39.796	Start report body generation for Checking for Columns and Data Types
+2025-05-07 09:49:39.799	End report body generation for Checking for Columns and Data Types
+2025-05-07 09:49:39.801	End matching of Columns and Data Types
+2025-05-07 10:45:42.412	End User defined query execution
+2025-05-07 10:50:59.903	Start matching for null values
+2025-05-07 10:50:59.905	Start returnQueryValues function Checking for Null Values
+2025-05-07 10:50:59.906	Start parseData function Checking for Null Values
+2025-05-07 10:50:59.908	Start openAndRead function Checking for Null Values
+2025-05-07 10:50:59.911	Start readDataFromFile function in ReadFile class
+2025-05-07 10:50:59.913	End readDataFromFile function in ReadFile class
+2025-05-07 10:50:59.915	End openAndRead function Checking for Null Values
+2025-05-07 10:50:59.917	End parseData function Checking for Null Values
+2025-05-07 10:50:59.918	End returnQueryValues function Checking for Null Values
+2025-05-07 10:50:59.920	Start report header generation for Checking for Null Values
+2025-05-07 10:50:59.926	End report header generation for Checking for Null Values
+2025-05-07 10:50:59.927	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:00.254	Connection established successfully.
+2025-05-07 10:51:00.258	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:00.261	Start execute query to fetch all results
+2025-05-07 10:51:00.274	End execute query to fetch all results
+2025-05-07 10:51:00.280	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:00.563	Connection established successfully.
+2025-05-07 10:51:00.565	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:00.567	Start execute query to fetch all results
+2025-05-07 10:51:00.570	End execute query to fetch all results
+2025-05-07 10:51:00.572	Start report body generation for Checking for Null Values
+2025-05-07 10:51:00.575	End report body generation for Checking for Null Values
+2025-05-07 10:51:00.651	Start report body generation for Checking for Null Values
+2025-05-07 10:51:00.661	End report body generation for Checking for Null Values
+2025-05-07 10:51:00.672	End matching for null values
+2025-05-07 10:51:26.323	End User defined query execution
+2025-05-07 10:51:27.753	Start matching for null values
+2025-05-07 10:51:27.756	Start returnQueryValues function Checking for Null Values
+2025-05-07 10:51:27.758	Start parseData function Checking for Null Values
+2025-05-07 10:51:27.758	Start openAndRead function Checking for Null Values
+2025-05-07 10:51:27.761	Start readDataFromFile function in ReadFile class
+2025-05-07 10:51:27.765	End readDataFromFile function in ReadFile class
+2025-05-07 10:51:27.767	End openAndRead function Checking for Null Values
+2025-05-07 10:51:27.770	End parseData function Checking for Null Values
+2025-05-07 10:51:27.772	End returnQueryValues function Checking for Null Values
+2025-05-07 10:51:27.773	Start report header generation for Checking for Null Values
+2025-05-07 10:51:27.782	End report header generation for Checking for Null Values
+2025-05-07 10:51:27.785	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:28.013	Connection established successfully.
+2025-05-07 10:51:28.016	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:28.017	Start execute query to fetch all results
+2025-05-07 10:51:28.023	End execute query to fetch all results
+2025-05-07 10:51:28.025	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:28.216	Connection established successfully.
+2025-05-07 10:51:28.218	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:51:28.219	Start execute query to fetch all results
+2025-05-07 10:51:28.222	End execute query to fetch all results
+2025-05-07 10:51:28.224	Start report body generation for Checking for Null Values
+2025-05-07 10:51:28.228	End report body generation for Checking for Null Values
+2025-05-07 10:51:28.236	Start report body generation for Checking for Null Values
+2025-05-07 10:51:28.239	End report body generation for Checking for Null Values
+2025-05-07 10:51:28.242	End matching for null values
+2025-05-07 10:52:42.655	End User defined query execution
+2025-05-07 10:52:44.525	Start matching for duplicate values
+2025-05-07 10:52:44.528	Start returnQueryValues function Checking for Duplicate Values
+2025-05-07 10:52:44.529	Start parseData function Checking for Duplicate Values
+2025-05-07 10:52:44.531	Start openAndRead function Checking for Duplicate Values
+2025-05-07 10:52:44.533	Start readDataFromFile function in ReadFile class
+2025-05-07 10:52:44.536	End readDataFromFile function in ReadFile class
+2025-05-07 10:52:44.536	End openAndRead function Checking for Duplicate Values
+2025-05-07 10:52:44.538	End parseData function Checking for Duplicate Values
+2025-05-07 10:52:44.540	End returnQueryValues function Checking for Duplicate Values
+2025-05-07 10:52:44.542	Start report header generation for Checking for Duplicate Values
+2025-05-07 10:52:44.549	End report header generation for Checking for Duplicate Values
+2025-05-07 10:52:44.551	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:52:44.794	Connection established successfully.
+2025-05-07 10:52:44.797	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:52:44.799	Start execute query to fetch all results
+2025-05-07 10:52:44.804	End execute query to fetch all results
+2025-05-07 10:52:44.807	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:52:45.000	Connection established successfully.
+2025-05-07 10:52:45.002	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 10:52:45.004	Start execute query to fetch all results
+2025-05-07 10:52:45.012	End execute query to fetch all results
+2025-05-07 10:52:45.015	Start report body generation for Checking for Duplicate Values
+2025-05-07 10:52:45.021	End report body generation for Checking for Duplicate Values
+2025-05-07 10:52:45.031	Start report body generation for Checking for Duplicate Values
+2025-05-07 10:52:45.036	End report body generation for Checking for Duplicate Values
+2025-05-07 10:52:45.040	Start report body generation for Checking for Duplicate Values
+2025-05-07 10:52:45.044	End report body generation for Checking for Duplicate Values
+2025-05-07 10:52:45.046	End matching for duplicate values
+2025-05-07 10:59:43.136	End User defined query execution
+2025-05-07 10:59:45.574	Start User defined query execution
+2025-05-07 10:59:45.577	Start returnQueryValues function User defined query execution
+2025-05-07 10:59:45.580	Start parseData function User defined query execution
+2025-05-07 10:59:45.582	Start openAndRead function User defined query execution
+2025-05-07 10:59:45.584	Start readDataFromFile function in ReadFile class
+2025-05-07 10:59:45.590	End readDataFromFile function in ReadFile class
+2025-05-07 10:59:45.592	End openAndRead function User defined query execution
+2025-05-07 10:59:45.595	End parseData function User defined query execution
+2025-05-07 10:59:45.597	End returnQueryValues function User defined query execution
+2025-05-07 11:00:21.070	Start report header generation for User defined query execution
+2025-05-07 11:00:21.077	End report header generation for User defined query execution
+2025-05-07 11:00:21.081	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.326	Connection established successfully.
+2025-05-07 11:00:21.328	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.329	Start execute query to fetch all results
+2025-05-07 11:00:21.334	End execute query to fetch all results
+2025-05-07 11:00:21.336	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.519	Connection established successfully.
+2025-05-07 11:00:21.520	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.521	Start execute query to fetch all results
+2025-05-07 11:00:21.525	End execute query to fetch all results
+2025-05-07 11:00:21.527	Start report body generation for User defined query execution
+2025-05-07 11:00:21.532	End report body generation for User defined query execution
+2025-05-07 11:00:21.544	Start report body generation for User defined query execution
+2025-05-07 11:00:21.549	End report body generation for User defined query execution
+2025-05-07 11:00:21.552	Start report body generation for User defined query execution
+2025-05-07 11:00:21.557	End report body generation for User defined query execution
+2025-05-07 11:00:21.559	Start report body generation for User defined query execution
+2025-05-07 11:00:21.564	End report body generation for User defined query execution
+2025-05-07 11:00:21.568	Start report body generation for User defined query execution
+2025-05-07 11:00:21.572	End report body generation for User defined query execution
+2025-05-07 11:00:21.574	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.756	Connection established successfully.
+2025-05-07 11:00:21.757	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.758	Start execute query to fetch all results
+2025-05-07 11:00:21.760	End execute query to fetch all results
+2025-05-07 11:00:21.763	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.950	Connection established successfully.
+2025-05-07 11:00:21.953	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:00:21.954	Start execute query to fetch all results
+2025-05-07 11:00:21.957	End execute query to fetch all results
+2025-05-07 11:00:21.958	Start report body generation for User defined query execution
+2025-05-07 11:00:21.961	End report body generation for User defined query execution
+2025-05-07 11:00:21.965	Start report body generation for User defined query execution
+2025-05-07 11:00:21.969	End report body generation for User defined query execution
+2025-05-07 11:00:21.970	Start end result generation for User defined query execution
+2025-05-07 11:00:21.973	End end result generation for User defined query execution
+2025-05-07 11:01:42.709	End User defined query execution
+2025-05-07 11:01:46.013	Start User defined query execution
+2025-05-07 11:01:46.016	Start returnQueryValues function User defined query execution
+2025-05-07 11:01:46.017	Start parseData function User defined query execution
+2025-05-07 11:01:46.020	Start openAndRead function User defined query execution
+2025-05-07 11:01:46.024	Start readDataFromFile function in ReadFile class
+2025-05-07 11:01:46.029	End readDataFromFile function in ReadFile class
+2025-05-07 11:01:46.031	End openAndRead function User defined query execution
+2025-05-07 11:01:46.035	End parseData function User defined query execution
+2025-05-07 11:01:46.038	End returnQueryValues function User defined query execution
+2025-05-07 11:01:52.549	Start report header generation for User defined query execution
+2025-05-07 11:01:52.555	End report header generation for User defined query execution
+2025-05-07 11:01:52.557	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:01:52.785	Connection established successfully.
+2025-05-07 11:01:52.786	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:01:52.787	Start execute query to fetch all results
+2025-05-07 11:01:52.792	End execute query to fetch all results
+2025-05-07 11:01:52.795	Start Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:01:52.947	Connection established successfully.
+2025-05-07 11:01:52.949	End Execution of establishConnection method in dataBaseConnection class.
+2025-05-07 11:01:52.950	Start execute query to fetch all results
+2025-05-07 11:01:52.953	End execute query to fetch all results
+2025-05-07 11:01:52.954	Start report body generation for User defined query execution
+2025-05-07 11:01:52.958	End report body generation for User defined query execution
+2025-05-07 11:01:52.968	Start report body generation for User defined query execution
+2025-05-07 11:01:52.971	End report body generation for User defined query execution
+2025-05-07 11:01:52.973	Start report body generation for User defined query execution
+2025-05-07 11:01:53.013	End report body generation for User defined query execution
+2025-05-07 11:01:53.019	Start report body generation for User defined query execution
+2025-05-07 11:01:53.031	End report body generation for User defined query execution
+2025-05-07 11:01:53.042	Start report body generation for User defined query execution
+2025-05-07 11:01:53.054	End report body generation for User defined query execution

@@ -1,0 +1,1 @@
+This query check for null values^SELECT id, value1, value2 FROM tabwthn;:SELECT id, value1, value2 FROM tabwthn;#

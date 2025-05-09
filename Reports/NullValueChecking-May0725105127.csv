@@ -1,0 +1,3 @@
+Description of the Test Case,Execution Summary,Status
+This query check for null values,,
+,Row {0: 4; 1: None; 2: None} in Source does not match Row {0: 4; 1: '5'; 2: None} in Target,Fail

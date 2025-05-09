@@ -1,0 +1,2 @@
+This query verifies the count of a table^SELECT COUNT(*) FROM stddata;:4#
+Second Query^SELECT 6;:7#

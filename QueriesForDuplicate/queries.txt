@@ -1,0 +1,1 @@
+Query to find Duplicate^select product_name,count(*) as duplicate_product from sDuplicatetest group by product_name having count(*)>1;:select product_name,count(*) as duplicate_product from tDuplicatetest group by product_name having count(*)>1;#

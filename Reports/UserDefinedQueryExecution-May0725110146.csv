@@ -1,0 +1,6 @@
+Description of the Test Case,Source Value,Target Value,Status
+This query verifies the count of a table,,,
+,{"{0: 'name1'; 1: 'addess1'; 2: 123; 3: 1; 4: 'schooladd1'; 5: 'principal1'; 6: 'parent1'}"},{"{0: 'name1'; 1: 'addess1'; 2: 123; 3: 1; 4: 'schooladd1'; 5: 'principal1'; 6: 'parent1'}"},Pass
+,{"{0: 'name2'; 1: 'addess2'; 2: 123; 3: 1; 4: 'schooladd2'; 5: 'principal2'; 6: 'parent2'}"},{"{0: 'name2'; 1: 'addess2'; 2: 123; 3: 1; 4: 'schooladd2'; 5: 'principal2'; 6: 'parent2'}"},Pass
+,{"{0: 'name3'; 1: 'addess3'; 2: 123; 3: 1; 4: 'schooladd3'; 5: 'principal3'; 6: 'parent3'}"},{"{0: 'name3'; 1: 'addess3'; 2: 123; 3: 1; 4: 'schooladd3'; 5: 'principal3'; 6: 'parent3'}"},Pass
+,{"{0: 'name4'; 1: 'addess4'; 2: 123; 3: 1; 4: 'schooladd4'; 5: 'principal4'; 6: 'parent4'}"},{"{0: 'name4'; 1: 'addess5'; 2: 123; 3: 1; 4: 'schooladd4'; 5: 'principal4'; 6: 'parent4'}"},Fail
