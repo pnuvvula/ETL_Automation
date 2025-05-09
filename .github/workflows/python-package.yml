@@ -31,7 +31,7 @@ jobs:
         python install pandas
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run install script
-      run: python /home/runner/work/ETL_Automation/ETL_Automation/install
+      run: ${{ github.workspace }}/install.py
 
     - name: Lint with flake8
       run: |
